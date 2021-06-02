@@ -8,6 +8,10 @@
 - Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 - Angular CLI - [https://angular.io/cli](https://angular.io/cli)
 
+### Protótipo
+
+- Figma - [https://www.figma.com/file/45hA17RoXlyM1SyMnqxJlj/bootcamp-santander?node-id=0%3A1](https://www.figma.com/file/45hA17RoXlyM1SyMnqxJlj/bootcamp-santander?node-id=0%3A1)
+
 ## Aula 3: Configurando o Projeto
 
 ### Trecho de código para adicionar o [normalize](https://necolas.github.io/normalize.css/):
